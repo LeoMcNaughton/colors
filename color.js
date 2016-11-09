@@ -23,14 +23,14 @@ Color.isColor = function(rgb){
 };
 
 Color.redIntensity = function(rgb){
-
+  let redworks = (rgb[0] >= ) && (rgb[0] <= 255);
 };
 
 //greenIntensity
-
+  let greenworks = (rgb[1] >= 0) && (rgb[1] <= 255);
 
 //blueIntensity
-
+  letss
 
 //brightness
 
